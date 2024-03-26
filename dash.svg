@@ -1,0 +1,801 @@
+<svg
+  id="random-id-1"
+  fill="none"
+  version="1.1"
+  viewBox="0 0 1800 1080"
+  height="100%"
+  width="100%"
+  style="overflow: visible; height: 100%; width: 100%"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+>
+  <g id="random-id-2" clip-path="url(#clip0_4056_5104)">
+    <rect id="random-id-3" width="1800" height="1080" fill="#0a0a0a" />
+    <rect
+      id="random-id-4"
+      width="1767"
+      height="460"
+      x="16"
+      y="329"
+      fill="#272729"
+    />
+    <g id="random-id-5">
+      <text
+        id="random-id-6"
+        fill="#efeff1"
+        font-family="'Open Sans'"
+        font-size="16px"
+        font-weight="600"
+        letter-spacing="0em"
+        x="550.38513"
+        y="-185.67786"
+      >
+        <tspan id="random-id-7" x="702.38513" y="390.52911">HEY</tspan>
+      </text>
+    </g>
+    <g id="random-id-8">
+      <text
+        id="random-id-9"
+        fill="#efeff1"
+        font-family="'Open Sans'"
+        font-size="16px"
+        font-weight="600"
+        letter-spacing="0em"
+        x="-175.46718"
+        y="-74.489502"
+      >
+        <tspan id="random-id-10" x="715.53284" y="501.71747">HEY</tspan>
+      </text>
+    </g>
+    <path
+      id="random-id-11"
+      fill="none"
+      stroke="#efeff1"
+      stroke-dasharray="8 8"
+      d="M312.512 804H8V313h303.511"
+    />
+    <path
+      id="random-id-12"
+      fill="none"
+      stroke="#efeff1"
+      stroke-dasharray="8 8"
+      d="M1057 804h734V313h-303"
+    />
+    <path
+      id="random-id-13"
+      stroke="#efeff1"
+      stroke-dasharray="8 8"
+      d="M311.511 313H1488M311.511 804H1057"
+    />
+    <path
+      id="random-id-14"
+      stroke="#efeff1"
+      stroke-dasharray="8, 8"
+      d="M 290.78561,316 V 801"
+    />
+    <g id="random-id-15">
+      <g id="random-id-16">
+        <rect
+          id="random-id-17"
+          width="58"
+          height="101"
+          x="325"
+          y="373"
+          fill="#73517F"
+        />
+        <g id="random-id-18" fill="#272729" font-size="14" letter-spacing="0em">
+          <text
+            id="random-id-19"
+            x="57.716"
+            y="0"
+            font-family="'Open Sans'"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-20"
+              x="354"
+              y="447.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-21"
+            font-family="'Open Sans'"
+            style="fill: #ffffff"
+          >
+            <tspan id="random-id-22" x="346.65201" y="409.931">A1</tspan>
+            <tspan id="random-id-23" x="332.05099" y="428.931">ABCDE</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-24">
+        <rect
+          id="random-id-25"
+          width="74"
+          height="83"
+          x="1065"
+          y="661"
+          fill="#73517F"
+          style="transition: all 0.2s ease 0s"
+        />
+        <g
+          id="random-id-26"
+          fill="#fff"
+          font-family="'Open Sans'"
+          font-size="14"
+          letter-spacing="0em"
+          style="fill: rgb(39, 39, 41)"
+        >
+          <text
+            id="random-id-27"
+            x="57.716"
+            y="0"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-28"
+              x="1102"
+              y="717.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-29"
+            x="52.938"
+            y="0"
+            style="text-align: center; text-anchor: middle; fill: #ffffff"
+          >
+            <tspan
+              id="random-id-30"
+              x="1102"
+              y="698.93103"
+              style="text-align: center; text-anchor: middle"
+            >
+              -AA001
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-31" transform="translate(-570.69257,-5.5544308)">
+        <rect
+          id="random-id-32"
+          width="74"
+          height="83"
+          x="1653"
+          y="371"
+          fill="#73517f"
+        />
+        <g
+          id="random-id-33"
+          fill="#fff"
+          font-family="'Open Sans'"
+          font-size="14px"
+          letter-spacing="0em"
+          style="fill: #272729"
+        >
+          <text
+            id="random-id-34"
+            x="57.716"
+            y="0"
+            font-weight="bold"
+            style="text-align: center; text-anchor: middle; fill: #ffffff"
+          >
+            <tspan
+              id="random-id-35"
+              x="1690"
+              y="427.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-36"
+            x="53.583"
+            y="0"
+            style="text-align: center; text-anchor: middle; fill: #ffffff"
+          >
+            <tspan
+              id="random-id-37"
+              x="1690"
+              y="408.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              -AA001
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-38" transform="translate(-967.68879,12.700808)">
+        <g
+          id="random-id-39"
+          fill="#272729"
+          font-family="'Open Sans'"
+          font-size="16px"
+          letter-spacing="0em"
+          style="fill: #efeff1"
+        >
+          <text id="random-id-40">
+            <tspan id="random-id-41" x="1494" y="272.207">10 °C</tspan>
+          </text>
+          <text id="random-id-42" x="-169.38297" y="-1.3115965">
+            <tspan id="random-id-43" x="1552.6171" y="270.89542">30 °C</tspan>
+          </text>
+          <text id="random-id-44" x="-94.850746" y="-6.7264147">
+            <tspan id="random-id-45" x="1500.1492" y="243.48059">
+              SOMETHING
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <path
+        id="random-id-46"
+        fill="none"
+        stroke="#272729"
+        stroke-dasharray="8, 8"
+        d="M 168.62065,314 V 551.52 H 97.620652 V 803"
+        style="stroke: #efeff1"
+      />
+      <path
+        id="random-id-47"
+        fill="#000"
+        d="M1049.33 622.5c0 1.473 1.2 2.667 2.67 2.667s2.67-1.194 2.67-2.667c0-1.473-1.2-2.667-2.67-2.667a2.671 2.671 0 0 0-2.67 2.667Zm2.17 0V843h1V622.5h-1Z"
+        style="fill: rgb(255, 255, 255)"
+      />
+      <path
+        id="random-id-48"
+        fill="#000"
+        d="M189.333 767a2.667 2.667 0 1 0 5.334 0 2.667 2.667 0 0 0-5.334 0Zm2.167 0v77h1v-77h-1Z"
+        style="fill: rgb(255, 255, 255)"
+      />
+      <g id="random-id-49">
+        <g id="random-id-50">
+          <circle
+            id="random-id-51"
+            cx="192.5"
+            cy="855.5"
+            r="13"
+            fill="#EFEFF1"
+            stroke="#272729"
+            style="fill: rgb(10, 10, 10); stroke: rgb(239, 239, 241)"
+          />
+          <g id="random-id-52">
+            <text
+              id="random-id-53"
+              fill="#272729"
+              font-family="Open Sans"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+              transform="translate(186 846)"
+            >
+              <tspan id="random-id-54" x="0" y="14.931">TI</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="random-id-55">
+          <g id="random-id-56">
+            <rect
+              id="random-id-57"
+              width="60"
+              height="19"
+              x="216"
+              y="827"
+              fill="#AF2341"
+              style="opacity: 0"
+            />
+            <text
+              id="random-id-58"
+              x="216"
+              y="827"
+              fill="#272729"
+              font-family="'Open Sans'"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+            >
+              <tspan
+                id="random-id-59"
+                x="216"
+                y="841.931"
+                style="fill: rgb(255, 255, 255)"
+              >
+                No data
+              </tspan>
+            </text>
+          </g>
+          <g id="random-id-60">
+            <rect
+              id="random-id-61"
+              width="60"
+              height="19"
+              x="216"
+              y="846"
+              fill="#AF2341"
+              style="opacity: 0"
+            />
+            <text
+              id="random-id-62"
+              x="216"
+              y="846"
+              fill="#272729"
+              font-family="'Open Sans'"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+            >
+              <tspan
+                id="random-id-63"
+                x="216"
+                y="860.931"
+                style="fill: rgb(255, 255, 255)"
+              >
+                No data
+              </tspan>
+            </text>
+          </g>
+          <text
+            id="random-id-64"
+            fill="#272729"
+            font-family="'Open Sans'"
+            font-size="14px"
+            font-weight="bold"
+            letter-spacing="0em"
+            style="fill: #efeff1"
+            transform="translate(216,865)"
+          >
+            <tspan id="random-id-65" x="0" y="14.931">TEMP1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-66">
+        <g id="random-id-67">
+          <circle
+            id="random-id-68"
+            cx="1052.5"
+            cy="855.5"
+            r="13"
+            fill="#EFEFF1"
+            stroke="#272729"
+            style="fill: rgb(10, 10, 10); stroke: rgb(239, 239, 241)"
+          />
+          <g id="random-id-69">
+            <text
+              id="random-id-70"
+              fill="#272729"
+              font-family="Open Sans"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+              transform="translate(1046 846)"
+            >
+              <tspan id="random-id-71" x="0" y="14.931">TI</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="random-id-72">
+          <g id="random-id-73">
+            <rect
+              id="random-id-74"
+              width="60"
+              height="19"
+              x="1076"
+              y="827"
+              fill="#AF2341"
+              style="opacity: 0"
+            />
+            <text
+              id="random-id-75"
+              x="1076"
+              y="827"
+              fill="#272729"
+              font-family="'Open Sans'"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+            >
+              <tspan
+                id="random-id-76"
+                x="1076"
+                y="841.931"
+                style="fill: rgb(255, 255, 255)"
+              >
+                No data
+              </tspan>
+            </text>
+          </g>
+          <g id="random-id-77">
+            <rect
+              id="random-id-78"
+              width="60"
+              height="19"
+              x="1076"
+              y="846"
+              fill="#AF2341"
+              style="opacity: 0"
+            />
+            <text
+              id="random-id-79"
+              x="1076"
+              y="846"
+              fill="#272729"
+              font-family="'Open Sans'"
+              font-size="14"
+              letter-spacing="0em"
+              style="fill: rgb(239, 239, 241)"
+            >
+              <tspan
+                id="random-id-80"
+                x="1076"
+                y="860.931"
+                style="fill: rgb(255, 255, 255)"
+              >
+                No data
+              </tspan>
+            </text>
+          </g>
+          <text
+            id="random-id-81"
+            fill="#272729"
+            font-family="'Open Sans'"
+            font-size="14px"
+            font-weight="bold"
+            letter-spacing="0em"
+            style="fill: #efeff1"
+            transform="translate(1076,865)"
+          >
+            <tspan id="random-id-82" x="0" y="14.931">TEMP2</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="random-id-83">
+      <g id="random-id-84">
+        <rect
+          id="random-id-85"
+          width="101"
+          height="101"
+          x="392"
+          y="620"
+          fill="#278ACC"
+          style="transition: all 0.2s ease 0s"
+        />
+        <g
+          id="random-id-86"
+          fill="#fff"
+          font-family="'Open Sans'"
+          font-size="14"
+          letter-spacing="0em"
+          style="fill: rgb(39, 39, 41)"
+        >
+          <text
+            id="random-id-87"
+            x="57.124"
+            y="0"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-88"
+              x="442.408"
+              y="672.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-89"
+            x="57.124"
+            y="0"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-90"
+              x="442.408"
+              y="691.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-91"
+            x="52.742001"
+            y="0"
+            style="text-align: center; text-anchor: middle; fill: #ffffff"
+          >
+            <tspan
+              id="random-id-92"
+              x="442.15799"
+              y="653.93103"
+              style="text-align: center; text-anchor: middle"
+            >
+              -AA001
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-93">
+        <rect
+          id="random-id-94"
+          width="240"
+          height="101"
+          x="497"
+          y="620"
+          fill="#278ACC"
+          style="transition: all 0.2s ease 0s"
+        />
+        <g
+          id="random-id-95"
+          fill="#fff"
+          font-family="'Open Sans'"
+          font-size="14"
+          letter-spacing="0em"
+          style="fill: rgb(39, 39, 41)"
+        >
+          <text
+            id="random-id-96"
+            x="57.624"
+            y="0"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-97"
+              x="616.908"
+              y="714.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-98"
+            x="57.624"
+            y="0"
+            font-weight="bold"
+            style="
+              text-align: center;
+              text-anchor: middle;
+              fill: rgb(255, 255, 255);
+            "
+          >
+            <tspan
+              id="random-id-99"
+              x="616.908"
+              y="636.931"
+              style="text-align: center; text-anchor: middle"
+            >
+              No data
+            </tspan>
+          </text>
+          <text
+            id="random-id-100"
+            x="50.686001"
+            y="0"
+            style="text-align: center; text-anchor: middle; fill: #ffffff"
+          >
+            <tspan
+              id="random-id-101"
+              x="617.30402"
+              y="675.93103"
+              style="text-align: center; text-anchor: middle"
+            >
+              -AA001
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-102" transform="translate(-559.29337,-5.5765599)">
+        <rect
+          id="random-id-103"
+          width="47"
+          height="83"
+          x="1731"
+          y="371"
+          fill="#278ACC"
+          style="fill: #6d6f73"
+        />
+        <text
+          id="random-id-104"
+          fill="#fff"
+          font-family="'Open Sans'"
+          font-size="16px"
+          font-weight="600"
+          letter-spacing="0em"
+          style="fill: #c1c2c6"
+        >
+          <tspan id="random-id-105" x="1738" y="418.207">HEY</tspan>
+        </text>
+      </g>
+      <g id="random-id-106">
+        <g id="random-id-107">
+          <circle
+            id="random-id-108"
+            cx="239"
+            cy="713.5"
+            r="13"
+            fill="#EFEFF1"
+            stroke="#272729"
+            style="fill: rgb(10, 10, 10); stroke: rgb(239, 239, 241)"
+          />
+          <g
+            id="random-id-109"
+            stroke="#272729"
+            style="stroke: rgb(239, 239, 241)"
+          >
+            <path
+              id="random-id-110"
+              d="m235 701.215-7.5 18.5m15.5-18.5 7.5 18.5"
+            />
+            <path
+              id="random-id-111"
+              d="M239.12 715.452c-2.009-2.679-3.645-8.037 0-8.037 3.684 0 1.674 5.358 0 8.037Z"
+            />
+            <path
+              id="random-id-112"
+              d="M239.388 715.914c3.107-1.246 8.706-1.441 7.763 2.081-.954 3.558-5.609.23-7.763-2.081Z"
+            />
+            <path
+              id="random-id-113"
+              d="M238.759 715.845c-2.068 2.634-6.819 5.601-7.763 2.08-.953-3.558 4.742-3.003 7.763-2.08Z"
+            />
+          </g>
+        </g>
+        <g id="random-id-114">
+          <g id="random-id-115">
+            <rect
+              id="random-id-116"
+              width="60"
+              height="19"
+              x="209"
+              y="731"
+              fill="#AF2341"
+              style="opacity: 0"
+            />
+            <text
+              id="random-id-117"
+              x="265.137"
+              y="731"
+              fill="#272729"
+              font-family="'Open Sans'"
+              font-size="14"
+              letter-spacing="0em"
+              style="
+                text-align: center;
+                text-anchor: middle;
+                fill: rgb(239, 239, 241);
+              "
+            >
+              <tspan
+                id="random-id-118"
+                x="238.949"
+                y="745.931"
+                style="
+                  text-align: center;
+                  text-anchor: middle;
+                  fill: rgb(255, 255, 255);
+                "
+              >
+                No data
+              </tspan>
+            </text>
+          </g>
+          <text
+            id="random-id-119"
+            x="263.78"
+            y="750"
+            fill="#272729"
+            font-family="'Open Sans'"
+            font-size="14px"
+            font-weight="bold"
+            letter-spacing="0em"
+            style="text-align: center; text-anchor: middle; fill: #efeff1"
+          >
+            <tspan
+              id="random-id-120"
+              x="239.103"
+              y="764.93103"
+              style="text-align: center; text-anchor: middle"
+            >
+              -FAN1
+            </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="random-id-121">
+        <rect
+          id="random-id-122"
+          width="41.487"
+          height="19.907"
+          x="995.627"
+          y="779.393"
+          fill="#EFEFF1"
+          stroke="#272729"
+          style="fill: rgb(10, 10, 10); stroke: rgb(239, 239, 241)"
+        />
+        <g id="random-id-123">
+          <circle
+            id="random-id-124"
+            cx="1016.5"
+            cy="789.346"
+            r="4.143"
+            fill="#272729"
+            style="fill: rgb(239, 239, 241)"
+          />
+          <path
+            id="random-id-125"
+            stroke="#272729"
+            d="m1009.81 795.903 13.12-13.115"
+            style="stroke: rgb(239, 239, 241)"
+          />
+        </g>
+      </g>
+    </g>
+    <g
+      id="random-id-126"
+      fill="#9F9F9F"
+      font-family="Open Sans"
+      font-size="16"
+      letter-spacing="0em"
+    >
+      <text id="random-id-127">
+        <tspan id="random-id-128" x="797.31201" y="360.207">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        </tspan>
+      </text>
+      <text id="random-id-129" x="672.44714" y="19.44556">
+        <tspan id="random-id-130" x="771.75214" y="398.65256">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        </tspan>
+      </text>
+      <text id="random-id-131" x="57.109329" y="-167.33379">
+        <tspan id="random-id-132" x="759.30432" y="439.87317">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        </tspan>
+      </text>
+      <text id="random-id-133">
+        <tspan id="random-id-134" x="1001.28" y="687.207">FAN</tspan>
+      </text>
+    </g>
+  </g>
+  <defs id="random-id-135">
+    <clipPath id="clip0_4056_5104">
+      <rect
+        id="random-id-137"
+        width="1800"
+        height="1080"
+        fill="#fff"
+        style="fill: rgb(39, 39, 41)"
+      />
+    </clipPath>
+  </defs>
+</svg>
